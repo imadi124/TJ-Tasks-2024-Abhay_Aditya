@@ -73,3 +73,6 @@ Feel free to check out the code and experiment with it! 🚀
 ```
 You can copy and paste this markdown into your README file on GitHub. It will format beautifully with the emojis and code snippets!
 ```
+
+<P><strong>Here is a screenshot of the webpage:</strong></P>
+![Screenshot 2024-10-23 005331](https://github.com/user-attachments/assets/1d0445d2-7a3f-47d7-9fbf-eb14af99eece)
