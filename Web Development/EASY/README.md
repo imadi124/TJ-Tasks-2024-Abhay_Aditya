@@ -63,7 +63,7 @@ To ensure the card looks great on any screen, I used media queries to adjust the
 }
 ```
 
-✨ Key Features
+### Key Features ✨ <br>
 •Responsive Design: Works seamlessly across different devices.<br><br>
 •Clean Layout: Aesthetic use of fonts, borders, and colors.<br><br>
 •Engaging Button: Hover and active states for interactivity.<br>
