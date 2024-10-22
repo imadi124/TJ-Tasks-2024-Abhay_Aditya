@@ -1,21 +1,27 @@
-.perfume{
-  width: 50px;
-  height: 50px;
-  border-radius: 10px;
+.container{
+    grid-template-rows:auto auto auto auto auto;
+    grid-template-columns: auto auto;
+    grid-gap:3px;
 }
-
-/* Flexbox container to center the image vertically */
-.container {
-  display: flex;
-  justify-content: flex-start; /* Aligns content to the left */
-  align-items: center; /* Centers content vertically */
-  height: 100vh; /* Full viewport height for vertical centering */
+.perfume{
+  width: 300px;
+  height:300px;
+  border-radius: 10px;
+  display:grid;
+  border:solid;
+  border-width:1px;
+  border-radius:20px;
+  margin-bottom:25px;
+  margin-left: 75px;
+  
 }
 
 .heading{
     font-family: 'Dancing Script', cursive;
     font-weight: bold;
-    font-size: 20px;
+    font-size:20px;
+ 
+    
 }
 
 .perfume-name{
@@ -25,18 +31,25 @@
     margin-bottom: 18px;
     text-decoration-line: underline;
     text-decoration-style: double;
+    margin-left:10px;
+    
 }
 
 .description{
     font-size: 20px;
     margin-top: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    width:600px;
+    text-align:justify;
+    margin-left:8px;
 }
 
 .price{
     color: green;
     font-weight: bold;
     font-size:30px;
+    margin-left:20px;
+    
 }
 
 .Only{
@@ -57,6 +70,8 @@
     width:100px;
     font-weight:bold;
     box-shadow: 2px 2px 8px rgb(49, 60, 48);
+    margin-left:30px;
+   
 }
 
 .Buynow:hover{
@@ -66,3 +81,4 @@
 .Buynow:active{
     opacity:0.6;
 }
+
