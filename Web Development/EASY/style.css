@@ -1,84 +1,77 @@
-.container{
-    grid-template-rows:auto auto auto auto auto;
-    grid-template-columns: auto auto;
-    grid-gap:3px;
+.container {
+  grid-template-rows: auto auto auto auto auto;
+  grid-template-columns: auto auto;
+  grid-gap: 3px;
 }
-.perfume{
+.perfume {
   width: 300px;
-  height:300px;
+  height: 300px;
   border-radius: 10px;
-  display:grid;
-  border:solid;
-  border-width:1px;
-  border-radius:20px;
-  margin-bottom:25px;
+  display: grid;
+  border: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  margin-bottom: 25px;
   margin-left: 75px;
-  
 }
 
-.heading{
-    font-family: 'Dancing Script', cursive;
-    font-weight: bold;
-    font-size:20px;
- 
-    
+.heading {
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
+  font-size: 20px;
 }
 
-.perfume-name{
-    font-size: 40px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    margin-bottom: 18px;
-    text-decoration-line: underline;
-    text-decoration-style: double;
-    margin-left:10px;
-    
+.perfume-name {
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  margin-bottom: 18px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  margin-left: 10px;
 }
 
-.description{
-    font-size: 20px;
-    margin-top: 0px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    width:600px;
-    text-align:justify;
-    margin-left:8px;
+.description {
+  font-size: 20px;
+  margin-top: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 600px;
+  text-align: justify;
+  margin-left: 8px;
 }
 
-.price{
-    color: green;
-    font-weight: bold;
-    font-size:30px;
-    margin-left:20px;
-    
+.price {
+  color: green;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 20px;
 }
 
-.Only{
-    font-size:15px;
-    color:grey;
+.Only {
+  font-size: 15px;
+  color: grey;
 }
 
-.Buynow{
-    color:white;
-    background-color: green;
-    border:none;
-    border-radius: 8px;
-    padding-left:10px;
-    padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
-    height:40px;
-    width:100px;
-    font-weight:bold;
-    box-shadow: 2px 2px 8px rgb(49, 60, 48);
-    margin-left:30px;
-   
+.Buynow {
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 40px;
+  width: 100px;
+  font-weight: bold;
+  box-shadow: 2px 2px 8px rgb(49, 60, 48);
+  margin-left: 30px;
 }
 
-.Buynow:hover{
-    opacity:0.8;
+.Buynow:hover {
+  opacity: 0.8;
 }
 
-.Buynow:active{
-    opacity:0.6;
+.Buynow:active {
+  opacity: 0.6;
 }
-
