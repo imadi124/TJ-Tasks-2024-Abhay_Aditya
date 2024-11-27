@@ -1,2 +1,2 @@
 # TJ-Tasks-2024-Abhay_Aditya
-This repo is for my university club Auditions @technojam
+This repo was for my university club Auditions @technojam
