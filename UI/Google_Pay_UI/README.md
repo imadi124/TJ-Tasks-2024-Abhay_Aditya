@@ -1,6 +1,8 @@
 # Hi There! 😊
 
-Welcome to my project where I recreate the **Google Pay** interface using **Figma**! 🎨✨
+Welcome to my project where I recreate the **Google Pay** interface using **Figma**! 🎨✨<br>
+You can check out the UI at figma by pasting the Below Link in your browser👇🏻:
+<h6>https://www.figma.com/design/K3PxaP0u0bdDodSHWY3j2D/TECHNOJAM-PROJECT?node-id=1-4&t=rDf98Oaz4FL6yTfW-1<h6>
 
 ## 🚀 How I Built the Google Pay UI in Figma:
 
